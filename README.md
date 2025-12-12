@@ -4,9 +4,8 @@
 ### *Final Cutscene for the War-Themed Game*  
 **Blender • EEVEE Render Engine • Cinematic Storytelling**
 
-<div align="center">
-
-<img width="300" src="./pic1.png"/>
+🎥 **Посмотреть катсцену в высоком качестве**:  
+[▶️ Скачать/просмотреть видео (MP4, 1080p)](https://github.com/RedShiftStudio/WarGame-Catscene-City/releases/tag/v1)
 
 > *«После всего, что он пережил… дом остался тем местом, куда можно вернуться»*  
 — финальная строка сценария
