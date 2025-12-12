@@ -8,8 +8,7 @@
 
 > *«После всего, что он пережил… дом остался тем местом, куда можно вернуться»*  
 — финальная строка сценария
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+  
 [![Blender 4.2+](https://img.shields.io/badge/Blender-4.2%2B-FF7526?logo=blender)](https://www.blender.org)  
 [![EEVEE Render](https://img.shields.io/badge/Render-EEVEE-%23EA4335)](https://docs.blender.org/manual/en/latest/render/eevee/index.html)  
 [![Made with ❤️ in Russia](https://img.shields.io/badge/Made_with-❤️_in_Russia-ff4b4b)]()
@@ -57,15 +56,15 @@
 
 ## 📸 Кадры из сцены
 
-| ![Frame 1](https://via.placeholder.com/300x170/34495e/ffffff?text=Approach+—+Long+Shot) | ![Frame 2](https://via.placeholder.com/300x170/e74c3c/ffffff?text=Gate+—+Dolly+Zoom) | ![Frame 3](https://via.placeholder.com/300x170/f39c12/ffffff?text=Doorstep+—+Close-Up) |
-|:---:|:---:|:---:|
-| *Дорога домой* | *Момент колебания у ворот* | *Рука на дверной ручке — первый шаг в новую жизнь* |
+<div align="center">
+
+<img width="300" src="./pic1.png"/>
+
+<img width="300" src="./pic2.png"/>
+
+
+</div>
 
 > 🔔 *Замените placeholder-ссылки на реальные скриншоты/рендеры при публикации!*
 
 ---
-
-## 🧰 Как использовать
-1. Скачайте репозиторий:  
-   ```bash
-   git clone https://github.com/your-username/homecoming-cutscene.git
