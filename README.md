@@ -4,7 +4,9 @@
 ### *Final Cutscene for the War-Themed Game*  
 **Blender • EEVEE Render Engine • Cinematic Storytelling**
 
-![Banner: Warm sunset over a quiet village, a lone soldier walks down a dusty road toward a small house](https://via.placeholder.com/1200x400/2c3e50/ffffff?text=Homecoming+—+A+War+Story+Finale)
+<div align="center">
+
+<img width="300" src="./pic1.png"/>
 
 > *«После всего, что он пережил… дом остался тем местом, куда можно вернуться»*  
 — финальная строка сценария
