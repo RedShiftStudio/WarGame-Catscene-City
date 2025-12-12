@@ -61,10 +61,11 @@
 <img width="300" src="./pic1.png"/>
 
 <img width="300" src="./pic2.png"/>
-
+<img width="300" src="./pic3.png"/>
+<img width="300" src="./pic4.png"/>
+<img width="300" src="./pic5.png"/>
 
 </div>
 
-> 🔔 *Замените placeholder-ссылки на реальные скриншоты/рендеры при публикации!*
 
 ---
